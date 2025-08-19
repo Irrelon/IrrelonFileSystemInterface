@@ -1,6 +1,6 @@
 {
   "name": "FileSystemInterface",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shared interface for a file system.",
   "keywords": ["irrelon", "file", "system", "interface", "esp32"],
   "repository": {
@@ -16,7 +16,7 @@
     }
   ],
   "license": "MIT",
-  "frameworks": ["arduino"],
-  "platforms": ["espressif32"],
+  "frameworks": "*",
+  "platforms": "*",
   "examples": []
 }
