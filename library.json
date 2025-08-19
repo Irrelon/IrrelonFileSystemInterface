@@ -1,6 +1,6 @@
 {
   "name": "FileSystemInterface",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared interface for a file system.",
   "keywords": ["irrelon", "file", "system", "interface", "esp32"],
   "repository": {
